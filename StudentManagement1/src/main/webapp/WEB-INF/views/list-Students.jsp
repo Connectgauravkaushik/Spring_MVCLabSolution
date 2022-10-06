@@ -35,7 +35,7 @@
 				class="btn btn-primary btn-sm mb-3"> Add Student </a><input
 				type="search" name="name" placeholder="Name"
 				class="form-control-sm ml-5 mr-2 mb-3" /> <input type="search"
-				name="author" placeholder="Author" class="form-control-sm mr-2 mb-3" />
+				name="department" placeholder="department" class="form-control-sm mr-2 mb-3" />
 
 			<button type="submit" class="btn btn-success btn-sm mb-3">Search</button>
 
